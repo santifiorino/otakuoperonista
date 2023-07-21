@@ -26,11 +26,12 @@ const Game: React.FC<GameProps> = ({
         if (selectedCategory === pictures[pictureIndex].category) {
             setScore((prevScore) => prevScore + 1);
         } else {
-            setPictureIndex(0);
             onNewScore(score);
             setScore(0);
         }
         setTimeout(() => {
+            pictures.sort(() => Math.random() - 0.5);
+            setPictureIndex(0);
             setSelectedCategory("");
             setPictureIndex((prevIndex) => (prevIndex + 1) % pictures.length);
         }, 2000);
