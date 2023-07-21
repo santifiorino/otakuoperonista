@@ -1,0 +1,602 @@
+[
+    {
+        "id": 1,
+        "partialPicture": "https://i.imgur.com/ESKluJL.png",
+        "fullPicture": "https://i.imgur.com/N6p6Cvy.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 2,
+        "partialPicture": "https://i.imgur.com/Io2xP5s.png",
+        "fullPicture": "https://i.imgur.com/tKFsfX8.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 3,
+        "partialPicture": "https://i.imgur.com/Hv3PQky.png",
+        "fullPicture": "https://i.imgur.com/GaOeZTq.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 4,
+        "partialPicture": "https://i.imgur.com/PV31YL2.png",
+        "fullPicture": "https://i.imgur.com/NXVYY94.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 5,
+        "partialPicture": "https://i.imgur.com/XHb4bZD.png",
+        "fullPicture": "https://i.imgur.com/1hIjjqo.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 6,
+        "partialPicture": "https://i.imgur.com/tuJz9JR.png",
+        "fullPicture": "https://i.imgur.com/sxwCSgC.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 7,
+        "partialPicture": "https://i.imgur.com/9MaORLW.png",
+        "fullPicture": "https://i.imgur.com/FIfU5QI.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 8,
+        "partialPicture": "https://i.imgur.com/RXwubbC.png",
+        "fullPicture": "https://i.imgur.com/lQVx7GZ.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 9,
+        "partialPicture": "https://i.imgur.com/4uS9TF7.png",
+        "fullPicture": "https://i.imgur.com/M4FOUO2.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 10,
+        "partialPicture": "https://i.imgur.com/v3CrMBw.png",
+        "fullPicture": "https://i.imgur.com/V1N8Ool.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 11,
+        "partialPicture": "https://i.imgur.com/Te9DnQK.png",
+        "fullPicture": "https://i.imgur.com/uc5ewc3.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 12,
+        "partialPicture": "https://i.imgur.com/vpoK52l.png",
+        "fullPicture": "https://i.imgur.com/lEcX2LT.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 13,
+        "partialPicture": "https://i.imgur.com/2fXXW8c.png",
+        "fullPicture": "https://i.imgur.com/9Bp9eJN.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 14,
+        "partialPicture": "https://i.imgur.com/MMnY464.png",
+        "fullPicture": "https://i.imgur.com/Vkrfwrm.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 15,
+        "partialPicture": "https://i.imgur.com/oBrd0II.png",
+        "fullPicture": "https://i.imgur.com/cc9lp1O.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 16,
+        "partialPicture": "https://i.imgur.com/MyHXsrY.png",
+        "fullPicture": "https://i.imgur.com/PLpPBOk.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 17,
+        "partialPicture": "https://i.imgur.com/Grl5CI8.png",
+        "fullPicture": "https://i.imgur.com/zd2T3kX.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 18,
+        "partialPicture": "https://i.imgur.com/oy9nZrW.png",
+        "fullPicture": "https://i.imgur.com/J28pW3K.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 19,
+        "partialPicture": "https://i.imgur.com/x9bbmc3.png",
+        "fullPicture": "https://i.imgur.com/tJPGfLZ.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 20,
+        "partialPicture": "https://i.imgur.com/QFch33B.png",
+        "fullPicture": "https://i.imgur.com/Bqr8RUU.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 21,
+        "partialPicture": "https://i.imgur.com/x08Q6HC.png",
+        "fullPicture": "https://i.imgur.com/XLRChNI.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 22,
+        "partialPicture": "https://i.imgur.com/T1W67NZ.png",
+        "fullPicture": "https://i.imgur.com/pZKqwvA.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 23,
+        "partialPicture": "https://i.imgur.com/rPhElEz.png",
+        "fullPicture": "https://i.imgur.com/CULDWUq.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 24,
+        "partialPicture": "https://i.imgur.com/SmnUbAy.png",
+        "fullPicture": "https://i.imgur.com/VZN8t8h.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 25,
+        "partialPicture": "https://i.imgur.com/QFcOMBM.png",
+        "fullPicture": "https://i.imgur.com/nolUYpQ.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 26,
+        "partialPicture": "https://i.imgur.com/tSosuvz.png",
+        "fullPicture": "https://i.imgur.com/zAqdUZH.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 27,
+        "partialPicture": "https://i.imgur.com/sk4AwWg.png",
+        "fullPicture": "https://i.imgur.com/3qrk8mF.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 28,
+        "partialPicture": "https://i.imgur.com/Lm4ZbT7.png",
+        "fullPicture": "https://i.imgur.com/YwmSPjt.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 29,
+        "partialPicture": "https://i.imgur.com/XSmtvOb.png",
+        "fullPicture": "https://i.imgur.com/qtTgBsr.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 30,
+        "partialPicture": "https://i.imgur.com/zIu0rfj.png",
+        "fullPicture": "https://i.imgur.com/BduyXpd.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 31,
+        "partialPicture": "https://i.imgur.com/WNmZnYo.png",
+        "fullPicture": "https://i.imgur.com/jR50iTW.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 32,
+        "partialPicture": "https://i.imgur.com/sc8wKkx.png",
+        "fullPicture": "https://i.imgur.com/hGheLCj.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 33,
+        "partialPicture": "https://i.imgur.com/gaNKySj.png",
+        "fullPicture": "https://i.imgur.com/UJU9VIT.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 34,
+        "partialPicture": "https://i.imgur.com/aTTtoah.png",
+        "fullPicture": "https://i.imgur.com/1URkH8T.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 35,
+        "partialPicture": "https://i.imgur.com/SNS4vMr.png",
+        "fullPicture": "https://i.imgur.com/bcad9pH.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 36,
+        "partialPicture": "https://i.imgur.com/2RhGFyo.png",
+        "fullPicture": "https://i.imgur.com/8dh3WwD.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 37,
+        "partialPicture": "https://i.imgur.com/y4NGs1D.png",
+        "fullPicture": "https://i.imgur.com/P3wxD2Y.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 38,
+        "partialPicture": "https://i.imgur.com/911ezxf.png",
+        "fullPicture": "https://i.imgur.com/DpOLsGP.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 39,
+        "partialPicture": "https://i.imgur.com/Oyy7T6H.png",
+        "fullPicture": "https://i.imgur.com/lmwYWc4.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 40,
+        "partialPicture": "https://i.imgur.com/Vv9OeV8.png",
+        "fullPicture": "https://i.imgur.com/FJ0kOKq.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 41,
+        "partialPicture": "https://i.imgur.com/AnjpHVH.png",
+        "fullPicture": "https://i.imgur.com/3u0JFp8.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 42,
+        "partialPicture": "https://i.imgur.com/N3KusGR.png",
+        "fullPicture": "https://i.imgur.com/MztNQji.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 43,
+        "partialPicture": "https://i.imgur.com/rlgbqAL.png",
+        "fullPicture": "https://i.imgur.com/KTwQs5S.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 44,
+        "partialPicture": "https://i.imgur.com/SobdclW.png",
+        "fullPicture": "https://i.imgur.com/MS37VET.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 45,
+        "partialPicture": "https://i.imgur.com/ViEztJJ.png",
+        "fullPicture": "https://i.imgur.com/Sem1eCg.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 46,
+        "partialPicture": "https://i.imgur.com/yhOeaKY.png",
+        "fullPicture": "https://i.imgur.com/VPlrWLN.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 47,
+        "partialPicture": "https://i.imgur.com/hHN2dLC.png",
+        "fullPicture": "https://i.imgur.com/Rf2FQqU.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 48,
+        "partialPicture": "https://i.imgur.com/wG70SnH.png",
+        "fullPicture": "https://i.imgur.com/FQOQAww.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 49,
+        "partialPicture": "https://i.imgur.com/Lj2hUqz.png",
+        "fullPicture": "https://i.imgur.com/Rf2FQqU.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 50,
+        "partialPicture": "https://i.imgur.com/S9igFu6.png",
+        "fullPicture": "https://i.imgur.com/zc53vKm.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 51,
+        "partialPicture": "https://i.imgur.com/RjIz3Ai.png",
+        "fullPicture": "https://i.imgur.com/xIRdgd8.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 52,
+        "partialPicture": "https://i.imgur.com/EdQdnXu.png",
+        "fullPicture": "https://i.imgur.com/DXr1cpD.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 53,
+        "partialPicture": "https://i.imgur.com/HwQGu7v.png",
+        "fullPicture": "https://i.imgur.com/NRImGOJ.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 54,
+        "partialPicture": "https://i.imgur.com/HOdtTde.png",
+        "fullPicture": "https://i.imgur.com/kEq92lX.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 55,
+        "partialPicture": "https://i.imgur.com/xZDwAwl.png",
+        "fullPicture": "https://i.imgur.com/IdhBv8o.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 56,
+        "partialPicture": "https://i.imgur.com/vArNH5U.png",
+        "fullPicture": "https://i.imgur.com/t83sYWG.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 57,
+        "partialPicture": "https://i.imgur.com/w6p49Xs.png",
+        "fullPicture": "https://i.imgur.com/GF3C81M.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 58,
+        "partialPicture": "https://i.imgur.com/IGIqu0Y.png",
+        "fullPicture": "https://i.imgur.com/w1fXcfs.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 59,
+        "partialPicture": "https://i.imgur.com/VLLOuGm.png",
+        "fullPicture": "https://i.imgur.com/0nvc6EB.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 60,
+        "partialPicture": "https://i.imgur.com/7Pk74N0.png",
+        "fullPicture": "https://i.imgur.com/OF9gX3Q.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 61,
+        "partialPicture": "https://i.imgur.com/wXAoH4D.png",
+        "fullPicture": "https://i.imgur.com/LlySQJ7.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 62,
+        "partialPicture": "https://i.imgur.com/OlqpKe6.png",
+        "fullPicture": "https://i.imgur.com/av1Jyfd.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 63,
+        "partialPicture": "https://i.imgur.com/MCTFiFo.png",
+        "fullPicture": "https://i.imgur.com/UGoygKv.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 64,
+        "partialPicture": "https://i.imgur.com/Oy6OV1p.png",
+        "fullPicture": "https://i.imgur.com/pVpUb1O.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 65,
+        "partialPicture": "https://i.imgur.com/R9t6ugF.png",
+        "fullPicture": "https://i.imgur.com/s5aub6J.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 66,
+        "partialPicture": "https://i.imgur.com/wYuZttI.png",
+        "fullPicture": "https://i.imgur.com/PVEc93L.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 67,
+        "partialPicture": "https://i.imgur.com/TKquqEN.png",
+        "fullPicture": "https://i.imgur.com/0e7oFPm.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 68,
+        "partialPicture": "https://i.imgur.com/zdNlGYs.png",
+        "fullPicture": "https://i.imgur.com/4nvJq2H.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 69,
+        "partialPicture": "https://i.imgur.com/MHcsGtq.png",
+        "fullPicture": "https://i.imgur.com/W1kwYTM.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 70,
+        "partialPicture": "https://i.imgur.com/qEtoVXz.png",
+        "fullPicture": "https://i.imgur.com/y31SmGo.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 71,
+        "partialPicture": "https://i.imgur.com/f6LlAM2.png",
+        "fullPicture": "https://i.imgur.com/qNLcTLx.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 72,
+        "partialPicture": "https://i.imgur.com/HrJMT7s.png",
+        "fullPicture": "https://i.imgur.com/f3MliKc.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 73,
+        "partialPicture": "https://i.imgur.com/GPFDrwB.png",
+        "fullPicture": "https://i.imgur.com/yHVqUii.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 74,
+        "partialPicture": "https://i.imgur.com/uVZNFJJ.png",
+        "fullPicture": "https://i.imgur.com/8YDJv6z.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 75,
+        "partialPicture": "https://i.imgur.com/f836T7Z.png",
+        "fullPicture": "https://i.imgur.com/2Ro3Xy7.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 76,
+        "partialPicture": "https://i.imgur.com/pFcuCuk.png",
+        "fullPicture": "https://i.imgur.com/AJLvFfq.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 77,
+        "partialPicture": "https://i.imgur.com/HzrVSTK.png",
+        "fullPicture": "https://i.imgur.com/CVSk04L.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 78,
+        "partialPicture": "https://i.imgur.com/E7xVc6K.png",
+        "fullPicture": "https://i.imgur.com/rgphjJJ.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 79,
+        "partialPicture": "https://i.imgur.com/l7ykoJP.png",
+        "fullPicture": "https://i.imgur.com/5A0dEdo.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 80,
+        "partialPicture": "https://i.imgur.com/KOoNNTO.png",
+        "fullPicture": "https://i.imgur.com/faq2x4T.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 81,
+        "partialPicture": "https://i.imgur.com/7tegHvj.png",
+        "fullPicture": "https://i.imgur.com/RHEHuIz.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 82,
+        "partialPicture": "https://i.imgur.com/CCtrO1n.png",
+        "fullPicture": "https://i.imgur.com/Cg4VVYi.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 83,
+        "partialPicture": "https://i.imgur.com/QEiP3OX.png",
+        "fullPicture": "https://i.imgur.com/gBFXwlq.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 84,
+        "partialPicture": "https://i.imgur.com/NompMKa.png",
+        "fullPicture": "https://i.imgur.com/4yZlX8Z.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 85,
+        "partialPicture": "https://i.imgur.com/GdiGm9a.png",
+        "fullPicture": "https://i.imgur.com/W9zH0Hi.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 86,
+        "partialPicture": "https://i.imgur.com/7cnbGn6.png",
+        "fullPicture": "https://i.imgur.com/6GQoqYV.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 87,
+        "partialPicture": "https://i.imgur.com/nqepjli.png",
+        "fullPicture": "https://i.imgur.com/forVeRB.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 88,
+        "partialPicture": "https://i.imgur.com/UlgX03u.png",
+        "fullPicture": "https://i.imgur.com/mscnHxO.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 89,
+        "partialPicture": "https://i.imgur.com/DSJFb0O.png",
+        "fullPicture": "https://i.imgur.com/mOEtuHK.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 90,
+        "partialPicture": "https://i.imgur.com/E2cd96Q.png",
+        "fullPicture": "https://i.imgur.com/hfz6MAu.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 91,
+        "partialPicture": "https://i.imgur.com/cllIwg6.png",
+        "fullPicture": "https://i.imgur.com/HNuC6pP.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 92,
+        "partialPicture": "https://i.imgur.com/MAtxyU9.png",
+        "fullPicture": "https://i.imgur.com/v8PysPS.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 93,
+        "partialPicture": "https://i.imgur.com/EDjkkwp.png",
+        "fullPicture": "https://i.imgur.com/6vj4KR2.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 94,
+        "partialPicture": "https://i.imgur.com/Xekv1Qm.png",
+        "fullPicture": "https://i.imgur.com/0gYjALF.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 95,
+        "partialPicture": "https://i.imgur.com/AkkQGPY.png",
+        "fullPicture": "https://i.imgur.com/xWifE5w.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 96,
+        "partialPicture": "https://i.imgur.com/2RF86JH.png",
+        "fullPicture": "https://i.imgur.com/dVNSvUS.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 97,
+        "partialPicture": "https://i.imgur.com/sBYKtjM.png",
+        "fullPicture": "https://i.imgur.com/C3KZcCz.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 98,
+        "partialPicture": "https://i.imgur.com/UpSvZHJ.png",
+        "fullPicture": "https://i.imgur.com/MO6GDfA.png",
+        "category": "PERONISTA"
+    },
+    {
+        "id": 99,
+        "partialPicture": "https://i.imgur.com/9IgLPS6.png",
+        "fullPicture": "https://i.imgur.com/qPAyCqJ.png",
+        "category": "OTAKU"
+    },
+    {
+        "id": 100,
+        "partialPicture": "https://i.imgur.com/PwulXNL.png",
+        "fullPicture": "https://i.imgur.com/4dIUWP7.png",
+        "category": "PERONISTA"
+    }
+]

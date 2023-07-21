@@ -1,1 +1,0 @@
-# ¿Otaku o Peronista?
