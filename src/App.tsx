@@ -16,7 +16,9 @@ const App: React.FC = () => {
 
         const fetchPicturesData = async () => {
             try {
-                const response = await fetch("./data/picturesDictionary.bin");
+                const response = await fetch(
+                    "./otakuoperonista/data/picturesDictionary.bin"
+                );
                 const base64Data = await response.text();
                 const jsonData = atob(base64Data);
                 const data: PictureData[] = JSON.parse(jsonData);
