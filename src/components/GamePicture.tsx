@@ -11,7 +11,6 @@ const GamePicture: React.FC<GamePictureProps> = ({
     showFullPicture,
 }) => {
     useEffect(() => {
-        // Preload the full picture when the component mounts (initial load).
         const fullImage = new Image();
         fullImage.src = picture.fullPicture;
     }, [picture.fullPicture]);
