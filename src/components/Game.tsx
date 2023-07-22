@@ -2,6 +2,7 @@ import React, {useState} from "react";
 import GamePicture from "./GamePicture";
 import GameButtons from "./GameButtons";
 import GameHeader from "./GameHeader";
+import Modal from "./Modal";
 import {PictureData} from "../types";
 
 interface GameProps {
@@ -20,21 +21,41 @@ const Game: React.FC<GameProps> = ({
     const [pictureIndex, setPictureIndex] = useState(0);
     const [score, setScore] = useState(0);
     const [selectedCategory, setSelectedCategory] = useState("");
+    const [isOpen, setIsOpen] = useState(false);
 
     const handleCategorySelection = (selectedCategory: string) => {
         setSelectedCategory(selectedCategory);
         if (selectedCategory === pictures[pictureIndex].category) {
             setScore((prevScore) => prevScore + 1);
+            onNewScore(score + 1);
+            setTimeout(() => {
+                setSelectedCategory("");
+                setPictureIndex(
+                    (prevIndex) => (prevIndex + 1) % pictures.length
+                );
+            }, 2000);
         } else {
-            onNewScore(score);
-            setScore(0);
+            setTimeout(() => {
+                openModal();
+            }, 2000);
         }
-        setTimeout(() => {
-            pictures.sort(() => Math.random() - 0.5);
-            setPictureIndex(0);
-            setSelectedCategory("");
-            setPictureIndex((prevIndex) => (prevIndex + 1) % pictures.length);
-        }, 2000);
+    };
+
+    const openModal = () => {
+        setIsOpen(true);
+    };
+
+    const restartGame = () => {
+        onNewScore(score);
+        pictures.sort(() => Math.random() - 0.5);
+        setScore(0);
+        setPictureIndex(0);
+        setSelectedCategory("");
+    };
+
+    const closeModal = () => {
+        setIsOpen(false);
+        restartGame();
     };
 
     return (
@@ -62,6 +83,20 @@ const Game: React.FC<GameProps> = ({
                     selectedCategory={selectedCategory}
                     correctCategory={pictures[pictureIndex].category}
                 />
+                <Modal isOpen={isOpen} onClose={closeModal}>
+                    <div className="bg-primary px-24 py-3 mb-5">
+                        <h1 className="text-2xl font-bold text-white">
+                            PERDISTE
+                        </h1>
+                    </div>
+                    <p className="mb-5 text-xl font-bold">SCORE: {score}</p>
+                    <button
+                        className="bg-primary hover:bg-secondary text-white font-bold px-10 py-2 mb-5"
+                        onClick={closeModal}
+                    >
+                        REINICIAR
+                    </button>
+                </Modal>
             </div>
         </div>
     );

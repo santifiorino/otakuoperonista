@@ -8,8 +8,10 @@ body {
     font-family: montserrat;
 }
 
-@layer components {
-    .icon {
-        @apply text-4xl mx-4;
-    }
+.modal-open {
+    overflow: hidden;
+}
+
+.icon {
+    @apply text-4xl mx-4;
 }
