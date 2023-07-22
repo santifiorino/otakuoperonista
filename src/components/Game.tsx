@@ -27,6 +27,10 @@ const Game: React.FC<GameProps> = ({
         setSelectedCategory(selectedCategory);
         if (selectedCategory === pictures[pictureIndex].category) {
             setScore((prevScore) => prevScore + 1);
+            if (score + 1 === pictures.length) {
+                openModal();
+                return;
+            }
             onNewScore(score + 1);
             setTimeout(() => {
                 setSelectedCategory("");
@@ -86,10 +90,14 @@ const Game: React.FC<GameProps> = ({
                 <Modal isOpen={isOpen} onClose={closeModal}>
                     <div className="bg-primary px-24 py-3 mb-5">
                         <h1 className="text-2xl font-bold text-white">
-                            PERDISTE
+                            {score === pictures.length ? "GANASTE" : "PERDISTE"}
                         </h1>
                     </div>
-                    <p className="mb-5 text-xl font-bold">SCORE: {score}</p>
+                    <p className="mx-5 mb-5 text-xl font-bold">
+                        {score === pictures.length
+                            ? "Ya podés aplicar tus conocimientos en las fotos de tus amigos!"
+                            : "SCORE: " + score}
+                    </p>
                     <button
                         className="bg-primary hover:bg-secondary text-white font-bold px-10 py-2 mb-5"
                         onClick={closeModal}
